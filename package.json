@@ -1,0 +1,19 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "Test and Learn TensorFlow",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthit75420/tensorflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthit75420/tensorflow/issues"
+  },
+  "homepage": "https://github.com/arthit75420/tensorflow#readme"
+}
